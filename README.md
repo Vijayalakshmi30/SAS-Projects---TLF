@@ -14,9 +14,6 @@ The repository includes programs to generate the following tables and figures:
 - **Lab Shift Table**: Tracks shifts in lab results across visits
 - **PFS Table**: Reports progression-free survival
 
-## Repository Structure
-The repository is organized by report type, with individual folders containing SAS scripts, sample data, and documentation for each report.
-
 ## Project Details
 
 **AE Table:** Provides an overview of adverse events, categorized by severity and relation to treatment.
